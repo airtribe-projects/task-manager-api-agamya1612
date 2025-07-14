@@ -9,4 +9,3 @@ A RESTful API for personalized news aggregation using **Node.js**, **Express.js*
 - Environment variable support with dotenv
 - Organized route structure for scalability
 
-## 📂 Project Structure
